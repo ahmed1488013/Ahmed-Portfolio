@@ -19,25 +19,25 @@ const mywork_data = [
         w_no:1,
         w_name:"Web design",
         w_img:project1_img,
-        link:"https://prescriptor-e874c.web.app/",
+        link:"https://presceptor.vercel.app/",
     },
     {
         w_no:2,
         w_name:"Web design",
         w_img:project2_img,
-        link:"https://lone-1d2ea.web.app/"
+        link:"https://youtube-clone-weld-three.vercel.app/"
     },
     {
         w_no:3,
         w_name:"Web design",
         w_img:project3_img,
-        link:"https://dashbord-d65ed.web.app/"
+        link:"https://dashbord-one-dusky.vercel.app/"
     },
     {
         w_no:4,
         w_name:"Web design",
         w_img:project6_img,
-        link:"https://benevolent-crostata-08f238.netlify.app/"
+        link:"https://egypest.vercel.app/"
         
     },
     {
@@ -50,55 +50,43 @@ const mywork_data = [
         w_no:6,
         w_name:"Web design",
         w_img:project12_img,
-        link:"https://amazing-piroshki-0a2483.netlify.app/"
+        link:"https://games-rho-gold.vercel.app/"
     },
     {
         w_no:7,
         w_name:"Web design",
         w_img:project13_img,
-        link:"https://clinquant-monstera-ef5a3a.netlify.app/"
+        link:"https://ahmed-finance.vercel.app/"
     },
     {
         w_no:8,
         w_name:"Web design",
         w_img:project14_img,
-        link:"https://blog-app-fullstack-progect.netlify.app/"
+        link:"https://blog-app-mu-hazel.vercel.app/"
     },
     {
         w_no:9,
         w_name:"Web design",
         w_img:project15_img,
-        link:"https://ahmedimg.netlify.app/"
+        link:"https://image-editor-five-rosy.vercel.app/"
     },
     {
         w_no:10,
         w_name:"Web design",
         w_img:project4_img,
-        link:" https://netflix-e86c4.web.app/"
+        link:"https://netflix-ten-silk.vercel.app/"
     },
     {
         w_no:11,
         w_name:"Web design",
         w_img:project7_img,
-        link:"https://steady-bonbon-63cb37.netlify.app/"
-    },
-    {
-        w_no:12,
-        w_name:"Web design",
-        w_img:project8_img,
-        link:"https://resurant-ahmed.netlify.app/"
+        link:"https://store-one-xi-70.vercel.app/"
     },
     {
         w_no:13,
         w_name:"Web design",
         w_img:project9_img,
-        link:"https://stupendous-klepon-57e278.netlify.app/"
-    },
-    {
-        w_no:14,
-        w_name:"Web design",
-        w_img:project10_img,
-        link:"https://frolicking-platypus-7877b0.netlify.app/"
+        link:"https://port-portfolio-eta.vercel.app/"
     },
     {
         w_no:15,
